@@ -2,3 +2,4 @@
 
 ## Integrantes
 - Isabela Lujan Jaramillo
+- Santiago Sánchez Grisales
