@@ -5,6 +5,6 @@
 - Isabela Lujan Jaramillo
 - Santiago Sánchez Grisales
 - Maria Camila Murillo Rosas
-
+- Julian Esteban Moreno Grajales
 
 
