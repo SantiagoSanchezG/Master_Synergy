@@ -6,5 +6,6 @@
 - Santiago Sánchez Grisales
 - Maria Camila Murillo Rosas
 - Julian Esteban Moreno Grajales
+- Tomas Cardona Ramirez
 
 
