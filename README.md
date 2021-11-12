@@ -8,9 +8,3 @@
 
 
 
--Maria Camila Murillo Rosas
-Rol
-Scrum Master
-Conocimientos
-Python
-Java (Nivel medio)
