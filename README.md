@@ -7,5 +7,6 @@
 - Maria Camila Murillo Rosas
 - Julian Esteban Moreno Grajales
 - Tomas Cardona Ramirez
+- Brayan Edilberto Tapias Duque
 
 
